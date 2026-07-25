@@ -1,10 +1,10 @@
-# 🏅 Olympic Analytics & Database Management System (SQL Server)
+# Olympic Analytics & Database Management System (SQL Server)
 
 A production-oriented SQL Server project built using the Olympic Athlete Events dataset. This project demonstrates advanced SQL programming, relational database design, business analytics, and performance-oriented query development using Microsoft SQL Server.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to transform raw Olympic athlete data into a normalized relational database and extract meaningful business insights using advanced SQL Server features.
 
@@ -12,7 +12,7 @@ Instead of writing simple SQL queries, this project focuses on solving real-worl
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Design a normalized relational database
 - Clean and transform raw Olympic data
@@ -23,7 +23,7 @@ Instead of writing simple SQL queries, this project focuses on solving real-worl
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Microsoft SQL Server
 - SQL Server Management Studio (SSMS)
@@ -32,7 +32,7 @@ Instead of writing simple SQL queries, this project focuses on solving real-worl
 
 ---
 
-## 🗂 Database Design
+##  Database Design
 
 The database is normalized into multiple related tables:
 
@@ -52,7 +52,7 @@ Implemented:
 
 ---
 
-## 📂 SQL Concepts Covered
+##  SQL Concepts Covered
 
 ### Database Design
 - Database Creation
@@ -91,7 +91,7 @@ Implemented:
 
 ---
 
-## 📊 Business Analytics Implemented
+## Business Analytics Implemented
 
 The project includes multiple analytical reports such as:
 
@@ -141,7 +141,7 @@ The project includes multiple analytical reports such as:
 
 ---
 
-## ⚙ Database Objects
+## Database Objects
 
 ### Views
 
@@ -172,7 +172,7 @@ The project includes multiple analytical reports such as:
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ✔ Normalized Database Design
 
@@ -190,13 +190,13 @@ The project includes multiple analytical reports such as:
 
 ---
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates practical implementation of SQL Server concepts including database design, advanced querying, business intelligence reporting, analytical SQL, reusable database programming, and enterprise-level database development.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Debendra Barik**
 
